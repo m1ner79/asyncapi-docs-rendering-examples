@@ -1,7 +1,5 @@
 # asyncapi-docs-rendering-examples
 ## Examples of how you can generate static documentation using the AsyncApi component.
-
----
 ### asyncapiReact files:
 
 - index.js
@@ -13,8 +11,8 @@
 
 ### webcomponent files:
 
--index.html
+- index.html
 
 ### standalone-bundle files:
 
--index.html
+- index.html
