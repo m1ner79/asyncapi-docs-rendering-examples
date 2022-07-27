@@ -3,7 +3,8 @@
 
 asyncapiReact, asyncapiVue, webcomponent and standalone bundle are Client-Side Rendering(CSR) examples.
 
-Each of these generates exactly this same test AsyncApi documentation template.
+I used below test AsyncAPI specification for each of the examples. 
+Only React template was fetched, every other model was pasted.
 
 ```
 `
@@ -219,7 +220,7 @@ Each of these generates exactly this same test AsyncApi documentation template.
 }
 `
 ```
-If everything works like it should then each of these examples should generate this AsyncAPI template 👇.
+If everything works like it should, then each of these examples should generate this AsyncAPI template 👇.
 
 ![document-template](document-template.png)
 
